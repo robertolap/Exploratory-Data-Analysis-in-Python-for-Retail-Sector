@@ -1,7 +1,5 @@
 # Exploratory-Data-Analysis-in-Python-for-Retail-Sector
 
-# Project 2: Exploratory Data Analysis in Python for the Retail Sector
-
 ## Overview
 This project conducts exploratory data analysis (EDA) using Python to analyze data from the retail sector. The analysis aims to derive insights into sales patterns, segment performance, geographical trends, and category/subcategory sales. The dataset used in this project contains information on sales transactions, including details such as sales value, category, segment, order date, and location.
 
